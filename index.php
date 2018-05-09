@@ -1,5 +1,6 @@
 <?php
 
-	echo "PogChamp!";
+	echo "PogChamp123!";
 
+	echo "KappaPride";
 ?>
